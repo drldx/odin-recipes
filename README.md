@@ -1,4 +1,4 @@
 # odin-recipes
 
-This is a sample basic html project to try out my beginner knowledge in html.
-
+Basic html project to try out my beginner knowledge in html.
+worked out with html tags, attributes, managing directories for images, subpages etc.
