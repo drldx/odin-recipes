@@ -1,0 +1,36 @@
+*, 
+*::after,
+*::before{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: black;
+}
+body{
+    background-color: rgb(223, 140, 77);
+    color: white;
+    width: 800px;
+    height: 900px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 35px;
+    
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    text-align: center;
+    color: black;
+}
+img, a{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+}
+body h2,p,ul, ol{
+    padding-bottom: 8px;
+}
